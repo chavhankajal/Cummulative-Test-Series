@@ -1,0 +1,74 @@
+.box
+{
+	border:1px solid black;
+	width:50%;
+	height:50%;
+	color:gray;
+	
+}
+
+
+.tab-content > .tab-pane {
+  display: none;
+}
+
+.tab-content > .active {
+  display: block;
+}
+
+ul li
+
+{
+	list-style-type: none;
+}
+
+.nav
+{
+	background-color:#DC143C;	
+	 padding:10px;
+	 font-size:20px;
+	 font-weight:bold;
+}
+
+.logout
+{
+	text-align:right;
+	
+}
+
+.logout a
+{
+	color:white;
+}
+
+.div1
+{
+
+border:2px solid gray;
+backtground-color:LightGray;
+margin:20px;
+padding:20px;
+height:100%
+}
+
+.button-type
+{
+background-color:#b73e52;
+}
+
+a:hover
+{
+text-decoration: none;	
+}
+
+
+
+#myModal
+{
+	backgound-color:red;
+	cursor: pointer;
+	z-index: 100;
+	top:0;
+	
+	
+}

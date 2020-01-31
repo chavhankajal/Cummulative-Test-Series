@@ -1,0 +1,70 @@
+i have completed BSCIT from vidyalankar school of information technlogy in the year 2014.
+
+after completing graduation i get a job in ITM group of institution as a LMS Administrator.
+
+We provide online mba courses to student where they learn online using a platform name as moodle which is open learning platform.
+
+My core responsibility as LMS Administrator is to upload the content i.e study materials on Moodle(its an open learning platform) using an FTP server name as filezilla.
+
+
+that study materials contains ebooks, sessions animations which are developed using flash, ready recokners, some assignment, interactivities which are developed using xml, exams i.e which are also developed using xml depend on their subjects and course.
+
+so for example if student select General mba then it includes in all semester i.e 4 we have 4 sujects and in that every subject include 10 sessions and1 ebook 1st year is common for every student so first 8 subjets i.e 80 sessions are same.
+
+then i developed epubs i.e ebook which we will give students on tablet using html and css on  an interface name as calibri
+
+
+i have also tested the animations using a bug tracking tool i.e bug ginie
+
+my background is it so i wnt to swich in it filed only so i worked on 1 module on 1 project which is an android project and i workred on desgn module of that  proect using an ansdroid studio  
+
+i also know some basic about php.
+
+i have completed the certification course from seed of java and currently pursuing android certification course from sami infotech.
+
+we cant ssay support it an administrator in which i alos worked in some technology also like html sxml android php  and flash also coz i have corrected some images added audio into flash synicing of animations so i have littile bit knoweled of flash also.   hand ling exam results on moodle theire marks giving reports in csv files created cohorst alos in site administrator adding users deleteing users.
+
+so basc=ically in miidle my job a=is as a stire andinistarto alos which is also a new technolyg for me i=but i leatnt taht quickly 
+
+
+
+
+differenr=ce betweeb html and html5
+
+
+
+html is a hyper text markup language. used to create web pages. most of the web pages on the internet aer fevekioed ysubg html.
+
+html5 is an update i.e the newver version of html which is more powerfull thn the old version 
+
+there are new features in html 5 inclused new tag like header footer nav  but audio and video support is the main the diff we can say which was not tgherir in html
+
+the others diff is html 5 usse web sql database applictioon ctcge to store data wherein html uses only browser catch
+
+and we can add inline mathml libraraty or vector graphic or cancvas svg for formulas to html5
+
+
+js was not allowd in htmk and in html5 we can run in background
+the declatation was to longer 
+wbr word bredk is used whe  word does not fit in one word
+
+The seamless attribute is a boolean attribute.
+
+When present, it specifies that the <iframe> should look like it is a part of the containing document (no borders or scrollbars).
+
+
+
+meta data in html
+
+meta data we can say its a data about data i.e information about data. i.e charset
+
+metadata will not display on screens
+ 
+the meta elemts are mostly used to give descrition oabr page keywrds, autgir if tge doc kast modified abd itger netadata
+
+htmk5 also used meta to settig viewport(visibke area of useer which will decied by dev)
+
+
+
+
+
